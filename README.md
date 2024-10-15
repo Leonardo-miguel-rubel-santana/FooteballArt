@@ -1,2 +1,4 @@
 # FooteballArt
-Loja de equipamentos de futebol
+Loja de Equipamentos de futebol
+
+
